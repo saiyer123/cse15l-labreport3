@@ -73,6 +73,7 @@ Here is example 8
 
 The word "error" in ./technical/logs/error.log file and displays one line of leading context.
 
+For each option I researched using this link [Link](https://www.gnu.org/software/grep/manual/grep.html) and chatGPT.
 
 
 
