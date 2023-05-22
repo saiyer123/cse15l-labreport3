@@ -74,7 +74,14 @@ $ grep -B 1 "error" ./technical/logs/error.log
 The word "error" in ./technical/logs/error.log file and displays one line of leading context.
 
 For each option I researched using this link [Link](https://www.gnu.org/software/grep/manual/grep.html) and chatGPT.
-I only used chatGPT in understanding what each function was. For example I would ask it "in simple terms what does the grep command do", to help me get a basic understanding before I looked deeper at in the link I provided.
+I only used chatGPT in understanding what the grep feature is overall to help me get a basic understanding before I looked deeper at in the link I provided. 
+I'll list here what I asked it and what its output was.
+Question: "in simple terms what does the grep command do".
+Answer: "The grep command is a command-line utility in Unix and Unix-like operating systems that allows you to search text using patterns.
+Here's the basic idea: grep stands for "global regular expression print".
+It is used to search text for lines that match a certain pattern and then prints those lines to the screen.
+The pattern that you provide can be simple text, or it could be a more complex regular expression."
+
 
 
 
