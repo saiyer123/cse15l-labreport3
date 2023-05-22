@@ -74,6 +74,7 @@ $ grep -B 1 "error" ./technical/logs/error.log
 The word "error" in ./technical/logs/error.log file and displays one line of leading context.
 
 For each option I researched using this link [Link](https://www.gnu.org/software/grep/manual/grep.html) and chatGPT.
+I only used chatGPT in understanding what each function was. For example I would ask it "in simple terms what does the grep command do", to help me get a basic understanding before I looked deeper at in the link I provided.
 
 
 
